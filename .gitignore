@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/node_modules
+/jspm_packages
+
+# Next.js build output
+.next/
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+/out
+/build
+
+# Public CSS generated files
+public/css
+
+# MacOS files
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.lock
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Next.js types
+types/
+
+# Private key files
+*.pem
+
+# Vercel
+.vercel
